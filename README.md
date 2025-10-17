@@ -2,7 +2,7 @@
 ### Robotics & AI Engineer | Imaging | ROS2 | Python | C++
 
 I’m an engineer passionate about building intelligent systems that merge **perception, control, and machine learning**.  
-Currently working in **hyperspectral imaging** at Living Optics while developing robotics and AI projects in my spare time.
+Currently working in **hyperspectral imaging** while developing robotics and AI projects in my spare time.
 
 ---
 
