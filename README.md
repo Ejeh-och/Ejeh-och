@@ -58,7 +58,7 @@ Explored CNN and Vision Transformer approaches.
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/emmanuel-ejeh-0a09a71b8)  
 [Email](mailto:eejeh13@gmail.com)  
-[Portfolio Website](https://your-portfolio-link.com)
+[Portfolio Website](https://sincere-insect-dcf.notion.site/Emmanuel-Ejeh-Robotics-AI-Engineer-28f751279dcb80179c16eb80e00121eb?source=copy_link)
 
 ---
 
