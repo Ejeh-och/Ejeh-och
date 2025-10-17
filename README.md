@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Emmanuel
+### Robotics & AI Engineer | Imaging | ROS2 | Python | C++
 
-<!--
-**Ejeh-och/Ejeh-och** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building intelligent systems that combine perception, control, and machine learning.  
+Currently working in hyperspectral imaging, and developing robotics + AI projects in my spare time.
 
-Here are some ideas to get you started:
+### 🔧 Technologies
+- **Languages:** Python, C++, MATLAB, JavaScript  
+- **Robotics:** ROS2, Gazebo, SLAM, Control Systems  
+- **AI & Vision:** OpenCV, PyTorch, TensorFlow, Deep Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Projects
+- 🦾 [SLAM Navigation (ROS2)](link)
+- 🎥 [Vision-based Object Detection](link)
+- ⚙️ [Control & Path Planning](link)
+- 🌈 [Hyperspectral Image Classification](link)
+
+### 🌍 Connect
+📫 [LinkedIn](www.linkedin.com/in/emmanuel-ejeh-0a09a71b8) | [Portfolio Website](your-portfolio-link)
